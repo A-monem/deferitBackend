@@ -5,7 +5,7 @@
             "image": "https://deferit.s3-ap-southeast-2.amazonaws.com/bill_1.jpg",
             "amount": 20,
             "date": "2020-09-01T11:28:56.782Z", 
-            "status": "Paid"
+            "status": "Unpaid"
         }, 
         {
             "id": 2,
